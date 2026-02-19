@@ -1,0 +1,14 @@
+/Users/filippaida/Desktop/BankApp/bin/Debug/net9.0/BankApp
+/Users/filippaida/Desktop/BankApp/bin/Debug/net9.0/BankApp.deps.json
+/Users/filippaida/Desktop/BankApp/bin/Debug/net9.0/BankApp.runtimeconfig.json
+/Users/filippaida/Desktop/BankApp/bin/Debug/net9.0/BankApp.dll
+/Users/filippaida/Desktop/BankApp/bin/Debug/net9.0/BankApp.pdb
+/Users/filippaida/Desktop/BankApp/obj/Debug/net9.0/BankApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/filippaida/Desktop/BankApp/obj/Debug/net9.0/BankApp.AssemblyInfoInputs.cache
+/Users/filippaida/Desktop/BankApp/obj/Debug/net9.0/BankApp.AssemblyInfo.cs
+/Users/filippaida/Desktop/BankApp/obj/Debug/net9.0/BankApp.csproj.CoreCompileInputs.cache
+/Users/filippaida/Desktop/BankApp/obj/Debug/net9.0/BankApp.dll
+/Users/filippaida/Desktop/BankApp/obj/Debug/net9.0/refint/BankApp.dll
+/Users/filippaida/Desktop/BankApp/obj/Debug/net9.0/BankApp.pdb
+/Users/filippaida/Desktop/BankApp/obj/Debug/net9.0/BankApp.genruntimeconfig.cache
+/Users/filippaida/Desktop/BankApp/obj/Debug/net9.0/ref/BankApp.dll
