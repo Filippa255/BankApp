@@ -12,3 +12,4 @@
 /Users/filippaida/Desktop/BankApp/obj/Debug/net9.0/BankApp.pdb
 /Users/filippaida/Desktop/BankApp/obj/Debug/net9.0/BankApp.genruntimeconfig.cache
 /Users/filippaida/Desktop/BankApp/obj/Debug/net9.0/ref/BankApp.dll
+/Users/filippaida/Desktop/BankApp/obj/Debug/net9.0/BankApp.sourcelink.json
